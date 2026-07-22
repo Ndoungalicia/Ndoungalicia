@@ -99,11 +99,6 @@ SQL + Excel + Power BI project analyzing insurance claims, processing efficiency
 
 ---
 
-### Edge AI for Diabetic Retinopathy Screening
-Research project focused on deploying lightweight AI models on smartphones for offline diabetic retinopathy detection in rural healthcare settings.
-
----
-
 ## Currently Learning
 
 - Machine Learning
